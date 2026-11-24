@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title">
+  <title id="title">Portfolio website preview</title>
+  <rect width="640" height="320" fill="#dbe8ff"/>
+  <rect x="83" y="35" width="474" height="250" rx="14" fill="#ffffff"/>
+  <path d="M83 49a14 14 0 0 1 14-14h446a14 14 0 0 1 14 14v25H83z" fill="#2857a4"/>
+  <circle cx="104" cy="53" r="5" fill="#ffca72"/>
+  <circle cx="122" cy="53" r="5" fill="#ffffff"/>
+  <circle cx="140" cy="53" r="5" fill="#96b9f1"/>
+  <rect x="122" y="111" width="182" height="14" rx="7" fill="#2857a4"/>
+  <rect x="122" y="140" width="215" height="9" rx="4" fill="#c6d2e1"/>
+  <rect x="122" y="158" width="180" height="9" rx="4" fill="#c6d2e1"/>
+  <rect x="122" y="190" width="96" height="29" rx="6" fill="#f2a541"/>
+  <circle cx="427" cy="158" r="58" fill="#dbe8ff"/>
+  <circle cx="427" cy="143" r="27" fill="#efb28c"/>
+  <path d="M375 220c7-37 25-54 52-54s45 17 52 54" fill="#2857a4"/>
+</svg>

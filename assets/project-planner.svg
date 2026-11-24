@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" role="img" aria-labelledby="title">
+  <title id="title">Weekly study planner preview</title>
+  <rect width="640" height="320" fill="#fff0d9"/>
+  <rect x="142" y="29" width="356" height="264" rx="16" fill="#ffffff"/>
+  <rect x="142" y="29" width="356" height="61" rx="16" fill="#2857a4"/>
+  <path d="M142 73h356v17H142z" fill="#2857a4"/>
+  <text x="177" y="68" fill="#ffffff" font-family="Arial, sans-serif" font-size="21" font-weight="700">MY WEEKLY PLAN</text>
+  <text x="172" y="118" fill="#66758b" font-family="Arial, sans-serif" font-size="13">MON</text>
+  <text x="236" y="118" fill="#66758b" font-family="Arial, sans-serif" font-size="13">TUE</text>
+  <text x="300" y="118" fill="#66758b" font-family="Arial, sans-serif" font-size="13">WED</text>
+  <text x="364" y="118" fill="#66758b" font-family="Arial, sans-serif" font-size="13">THU</text>
+  <text x="428" y="118" fill="#66758b" font-family="Arial, sans-serif" font-size="13">FRI</text>
+  <g fill="#eaf0fa">
+    <rect x="169" y="132" width="48" height="49" rx="6"/>
+    <rect x="233" y="132" width="48" height="49" rx="6"/>
+    <rect x="297" y="132" width="48" height="49" rx="6"/>
+    <rect x="361" y="132" width="48" height="49" rx="6"/>
+    <rect x="425" y="132" width="48" height="49" rx="6"/>
+  </g>
+  <g fill="#f2a541">
+    <rect x="169" y="190" width="48" height="49" rx="6"/>
+    <rect x="233" y="190" width="48" height="49" rx="6"/>
+    <rect x="297" y="190" width="48" height="49" rx="6"/>
+    <rect x="361" y="190" width="48" height="49" rx="6"/>
+    <rect x="425" y="190" width="48" height="49" rx="6"/>
+  </g>
+  <g fill="#ffffff" font-family="Arial, sans-serif" font-size="11" text-anchor="middle">
+    <text x="193" y="160">CLASS</text>
+    <text x="257" y="160">NOTES</text>
+    <text x="321" y="160">STUDY</text>
+    <text x="385" y="160">LAB</text>
+    <text x="449" y="160">REVIEW</text>
+    <text x="193" y="219">BREAK</text>
+    <text x="257" y="219">MATH</text>
+    <text x="321" y="219">CODE</text>
+    <text x="385" y="219">READ</text>
+    <text x="449" y="219">REST</text>
+  </g>
+</svg>
